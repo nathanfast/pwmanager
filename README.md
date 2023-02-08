@@ -32,7 +32,7 @@ After you enter your master password, the main menu will appear. The menu consis
 Select this option to change your existing master password. You will be prompted to enter your current master password and then your new master password.
 
 **View Passwords:**
-Select this option to view a Password. You will have to enter the name of the website for which you need a password.
+Select this option to view the Passwords. You will have to enter the Master Password.
 
 **Add New Password:**
 Select this option to add a new password. You will be prompted to enter the website name and password.
